@@ -13,15 +13,7 @@ Swift Data powerful and expressive persistence framework built for Swift, first 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/KingSlayer06/Expense-Tracker/blob/main/Screenshots/Screenshot-1.png?raw=true)
-
-![App Screenshot](https://github.com/KingSlayer06/Expense-Tracker/blob/main/Screenshots/Screenshot-2.png?raw=true)
-
-![App Screenshot](https://github.com/KingSlayer06/Expense-Tracker/blob/main/Screenshots/Screenshot-3.png?raw=true)
-
-![App Screenshot](https://github.com/KingSlayer06/Expense-Tracker/blob/main/Screenshots/Screenshot-4.png?raw=true)
-
-![App Screenshot](https://github.com/KingSlayer06/Expense-Tracker/blob/main/Screenshots/Screenshot-5.png?raw=true)
+![App Screenshot](https://github.com/KingSlayer06/Expense-Tracker/blob/main/Screenshots/Screenshots.png?raw=true)
 
 
 
